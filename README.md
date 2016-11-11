@@ -20,4 +20,5 @@ Data Model
 - quality is based on one of the following: “genius”, “plausible”, and “swill.”
 - By default, the idea’s “quality” is the lowest setting (i.e. “swill”).
 
+---
 You can start saving your brilliant ideas and saving them in this [ideaBox](https://kswhyte.github.io/idea-box/) today!
