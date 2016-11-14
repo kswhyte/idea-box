@@ -1,6 +1,6 @@
 # IdeaBox
 
-Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
+Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, I built a simple application for recording and archiving ideas (good and bad alike).
 
 Throughout the project, one of my focuses was on providing a fluid and responsive client-side interface. To this end, I relied on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist all of the wonderful ideas between sessions.
 
