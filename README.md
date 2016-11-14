@@ -4,6 +4,7 @@ Every developer has more ideas than time. As David Allen likes to say “the hum
 
 Throughout the project, one of my focuses was on providing a fluid and responsive client-side interface. To this end, I relied on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist all of the wonderful ideas between sessions.
 
+---
 ###Architecture
 
 For this project, I was increasingly thinking about the “server” and “client” as separate entities. I was using:
